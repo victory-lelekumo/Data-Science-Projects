@@ -9,7 +9,7 @@ This is a collection of Data Science projects completed by me
   The goal of this analysis was to determine if lack of funding is a significant issue for SMEs in Nigeria
 
 * ## Artificial Intelligence and Machine Learning Projects:
-1. **[Emotional Intelligence Bot]
-2. **[Boston House Price Prediction](
-3. **[Face Mask Detector]
-4. **[Sign Language Classification]
+1. **[Emotional Intelligence Bot]()
+2. **[Boston House Price Prediction]()
+3. **[Face Mask Detector]()
+4. **[Sign Language Classification]()
