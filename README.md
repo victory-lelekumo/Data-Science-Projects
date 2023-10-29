@@ -11,5 +11,5 @@ This is a collection of Data Science projects completed by me
 * ## Artificial Intelligence and Machine Learning Projects:
 1. **[Emotional Intelligence Bot]
 2. **[Boston House Price Prediction](
-3. **[Face Mask Detector]()
+3. **[Face Mask Detector]
 4. **[Sign Language Classification]
